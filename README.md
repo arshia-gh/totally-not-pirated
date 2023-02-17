@@ -1,2 +1,2 @@
-# not-totally-pirated
-This is a set of tailwind styled components that are not totally pirated, I do not own any of these components
+# Totally Not Pirated
+This is a set of t*a*i*l*w*i*n*d styled components that are not totally pirated, I do not own any of these components...

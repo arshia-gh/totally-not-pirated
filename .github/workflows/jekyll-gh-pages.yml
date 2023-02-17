@@ -34,6 +34,7 @@ jobs:
         with:
           source: ./preview
           destination: ./_site
+          baseurl: totally_not_pirated
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
